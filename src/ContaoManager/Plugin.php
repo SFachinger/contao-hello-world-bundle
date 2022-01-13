@@ -23,7 +23,7 @@ class Plugin implements BundlePluginInterface
     public function getBundles(ParserInterface $parser)
     {
         return [
-            BundleConfig::create(SFachingerContaoHelloWorldBundle::class)
+            BundleConfig::create(ContaoHelloWorldBundle::class)
                 ->setLoadAfter([ContaoCoreBundle::class]),
         ];
     }
