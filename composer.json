@@ -1,7 +1,7 @@
 {
     "name": "sfachinger/contao-hello-world-bundle",
     "type": "contao-bundle",
-    "description": "Skeleton for custom Contao 4 bundles von Steffen Fachinger",
+    "description": "This is only a test bundle from Steffen Fachinger",
     "homepage": "https://contao.org",
     "license": "LGPL-3.0-or-later",
     "authors": [
