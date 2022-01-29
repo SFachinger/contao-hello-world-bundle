@@ -36,10 +36,6 @@ class HelloWorldModule extends \Module
      */
     protected function compile()
     {
-<<<<<<< Updated upstream
-        $this->Template->message = 'Hello World';
-=======
-        $this->Template->message = 'Test output from Steffen Fachinger';
->>>>>>> Stashed changes
+
     }
 }
