@@ -39,7 +39,7 @@ class HelloWorldModule extends \Module
 <<<<<<< Updated upstream
         $this->Template->message = 'Hello World';
 =======
-        $this->Template->message = 'Test output from SFachinger';
+        $this->Template->message = 'Test output from Steffen Fachinger';
 >>>>>>> Stashed changes
     }
 }
